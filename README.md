@@ -12,11 +12,7 @@ This repository contains a Python application that leverages the `Mediapipe`, `o
 
 ## Installation
 
-1. Clone the repository to your local machine:
-
-    ```bash
-    git clone https://github.com/AKILSADIK/Running-Games-Using-openCV.git
-    ```
+1. Clone the repository to your local machine
 
 2. Install the required libraries:
 
@@ -65,4 +61,5 @@ Please note that this setup requires your webcam to be functional and properly p
 - [pyautogui](https://github.com/asweigart/pyautogui)
 
 Install these dependencies using the provided `requirements.txt` file.
+
 
